@@ -11,13 +11,13 @@ The demo is designed for sales and product validation:
 
 ## Departments
 
-- People & HR: timekeeping, PTO, benefits, onboarding.
-- IT & Security: access requests, MFA, device security.
-- Operations: procurement, office requests, process handoffs.
+- People & HR: timekeeping, PTO, benefits, onboarding, parental leave.
+- IT & Security: access requests, MFA, device security, incident response.
+- Operations: procurement, office requests, process handoffs, vendor onboarding.
 - Finance: reimbursements, budget approvals, invoice intake.
 - Legal & Compliance: vendor contracts, record retention, privacy review.
 - Marketing: campaign requests, brand approvals, customer-facing copy.
-- Support: internal escalation, response templates, service ownership.
+- Support: internal escalation, response templates, policy triage, service ownership.
 
 ## Demo Safety
 
