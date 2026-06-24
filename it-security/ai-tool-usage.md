@@ -20,6 +20,10 @@ Do not paste customer data, employee records, contracts, security findings, cred
 
 Legal and IT Security review is required before using AI tools for customer-facing decisions, automated employee decisions, regulated workflows, vendor assessment, or processing Confidential or Restricted data.
 
+## Temporary Exception Handling
+
+Employees may ask IT Security whether a time-limited AI tool exception is possible, but there is no approved exception form yet. Do not treat Slack approval as a durable exception record.
+
 ## Documentation Gap
 
-This draft does not yet define the approved tool list, retention settings, model training controls, or exception process. Employees should route uncertain cases to IT Security.
+This draft does not yet define the approved tool list, retention settings, model training controls, exception process, or required audit evidence. Employees should route uncertain cases to IT Security.

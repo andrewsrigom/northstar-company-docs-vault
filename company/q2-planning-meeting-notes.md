@@ -25,3 +25,9 @@ These notes summarize a fictional cross-functional Q2 planning meeting. They are
 ## Follow-Ups
 
 Business Operations will convert repeated questions into documentation gaps. Legal and IT Security will propose a lightweight AI tool usage policy before the next planning checkpoint.
+
+## Stale Follow-Up Notes
+
+As of 2026-06-01, the public-facing escalation template owner is still unresolved. Support drafted internal templates, Customer Success owns named-account communication, and Legal asked to review breach or contractual language before use.
+
+The onboarding reliability theme also remains under-specified. Product discussed onboarding reliability for customer onboarding, while People Operations interpreted the theme as employee onboarding. The notes do not clarify which operating metric should be improved first.

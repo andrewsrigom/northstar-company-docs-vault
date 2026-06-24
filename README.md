@@ -35,6 +35,7 @@ The vault is intentionally shaped like a mixed Notion, Confluence, and shared-dr
 - archived pages that mention superseded rules;
 - cross-functional handoffs where multiple teams approve different parts;
 - repeated concepts with different wording to exercise retrieval quality;
+- Markdown image references for future rendering and media support tests;
 - known gaps that a knowledge assistant should identify instead of guessing.
 
 ## Example Questions
